@@ -35,13 +35,7 @@
 
 	以上参考官方文档进行安装。
 
-## 接线
-
-![ESP01S-UNO](G:/MyBlog/Blog_Picture/ESP01S-UNO.png)
-
-![AcessControl](G:/MyBlog/Blog_Picture/AcessControl.png)
-
-> 注意以上接线配套程序使用。
+## 硬件接线方式见上图
 
 
 
